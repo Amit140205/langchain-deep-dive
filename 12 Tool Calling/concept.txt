@@ -1,0 +1,4 @@
+https://colab.research.google.com/drive/1pQ2LiOMKA-Znmd_Ff75zkJe36l0svBpG?usp=sharing
+
+// currency convertor => AI Agent using tool calling manually
+https://colab.research.google.com/drive/13c3PhA5GZ3Q7Z06M7yxT9x_5jAaWt08J?usp=sharing

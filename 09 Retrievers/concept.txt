@@ -1,0 +1,6 @@
+// Data-source based retrievers
+https://colab.research.google.com/drive/1OHTE2Cm31C53_Ybswhdj4NYgaXuYZ6Js?usp=sharing
+https://colab.research.google.com/drive/1BU0-cGkMdeZFivQSt0yG9Zpur2loRKPT?usp=sharing
+
+// Search Strategy
+https://colab.research.google.com/drive/1D4bnya-hlx9idthYzOwcThlxqTKvUtUJ?usp=sharing

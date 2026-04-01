@@ -1,0 +1,5 @@
+// how things work 
+// initial concept
+https://colab.research.google.com/drive/1hTkAl-fi2uLuFIWu5sHOcWNPOinpWmAg?usp=sharing
+// updated concept
+https://colab.research.google.com/drive/1ZURgcKMgl5a6HwyLTkaAcCj8yMP0OIrK?usp=sharing
