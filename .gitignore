@@ -9,6 +9,7 @@ venv/
 .env
 14 LangGraph/
 15 MCP/
+16 FastAPI
 setup.txt
 GENAI Notes.pdf
 
